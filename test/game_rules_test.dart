@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_057_word_battle/core/level_plan.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_057_word_battle/game/battle_engine.dart';
 import 'package:game_057_word_battle/game/rules.dart';
 import 'package:game_057_word_battle/game/word_kit.dart';
